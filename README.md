@@ -1,4 +1,4 @@
-# esx_papajohns
+# esx_papajohns v1
 A pizza delivery script for ESX with random deliveries around Blaine County.
 
 This is an edit of esx_247.  Original script by https://github.com/Chip-W/esx_247.
