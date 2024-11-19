@@ -1,5 +1,5 @@
 # esx_papajohns
-A pizza delivery script foe ESX with random deliveries around Blaine County.
+A pizza delivery script for ESX with random deliveries around Blaine County.
 
 This is an edit of esx_247.  Original script by https://github.com/Chip-W/esx_247.
 
@@ -42,3 +42,5 @@ when going on duty.  Once on duty, the player can go on deliveries around Blaine
 deliveries are random in how many and locations chosen from a pool of 10.  Delivery points farther from the store pay better than closer ones. It could get
 treacherous at times but it makes it fun. The pay per delivery is fully configurable to suit your needs in the config file. You get a bonus after returning 
 to the restaurant.
+
+Jesus is KING!
